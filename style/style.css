@@ -1,0 +1,30 @@
+html{
+    font-family: "poppins" , serif ;
+    font-size: medium;
+    background-color: cyan;
+    align-items: center;
+}
+
+h1 , h2 , figcaption {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px , 3px , 2px;
+    margin: 0 , auto;
+}
+body{
+    background-color: orange;
+    border: 7px , white;
+    padding: 0  30px  30px  30px;
+    
+}
+p , li {
+    text-align: left;
+    size: 19px;
+    color: black;
+    
+}
+img{
+    display: block;
+    margin: 0  auto;
+}
+
